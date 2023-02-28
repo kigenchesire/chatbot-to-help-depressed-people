@@ -26,7 +26,7 @@
   "What are you?", 
   "Who you are?" ],
   "responses": ["I am chatbot who was created to help users deal with depression", 
-  "I'm CIMPS chatbot"]
+  "My name is JoyfulBot, I help people deal with depression"]
  },
    {"tag": "what is depression?",
       "patterns": [
